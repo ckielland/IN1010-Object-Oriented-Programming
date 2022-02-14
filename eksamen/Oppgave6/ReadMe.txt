@@ -1,0 +1,1 @@
+Here, I have implemented the new requirements in exercise 2, so only single terrain. Also, I have only implemented it for human players, and not robot. 
